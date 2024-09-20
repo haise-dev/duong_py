@@ -1,0 +1,24 @@
+{
+    "tier1": [
+        "vanh",
+        "hp"
+    ],
+    "tier2": [
+        "dh",
+        "vhoang",
+        "ht",
+        "lt"
+    ],
+    "tier3": [
+        "hs",
+        "nk"
+    ],
+    "tier4": [
+        "kong",
+        "gkong",
+        "kongkai",
+        "htfriend",
+        "lmd",
+        "lmdfriend"
+    ]
+}
